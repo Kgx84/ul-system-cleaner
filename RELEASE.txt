@@ -1,0 +1,8 @@
+Release: SystemCleaner
+
+This release includes:
+- SystemCleaner.bat: The main cleaning tool
+- AboutSystemCleaner.txt: Tool description and usage
+- system cleaner.zip: Compressed archive containing the tool
+
+For installation and usage instructions, see README.md.
